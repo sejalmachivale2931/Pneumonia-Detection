@@ -41,6 +41,8 @@ New.jpg
 
 ---
 
+## Download Data from Kaggle 
+
 ## ⚙️ Workflow
 
 1. Load dataset using ImageDataGenerator
