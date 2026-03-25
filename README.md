@@ -68,13 +68,13 @@ pip install -r requirements.txt
 
 Run project:
 
-python project.py
+python Pneumonia_Detection.py
 
 ---
 
 ## 📁 Files
 
-project.py → main code
+Pneumonia_Detection.py → main code
 
 requirements.txt → libraries
 
