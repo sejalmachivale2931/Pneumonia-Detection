@@ -78,9 +78,7 @@ Pneumonia_Detection.py → main code
 
 requirements.txt → libraries
 
-training_results.csv → training accuracy data
-
-sample_output.png → accuracy graph
+Pneumonia_Detection.png → accuracy graph
 
 ---
 
